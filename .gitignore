@@ -1,0 +1,6 @@
+#ignore bin, obj, .vs directories
+.vs/*
+Solution/Solution/bin/*
+Solution/Solution/obj/*
+UnitTest/bin/*
+UnitTest/obj/*
